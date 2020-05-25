@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+  }
+  
+  a:active, a:visited, a:link {
+    color: black;
+  }
+  
+  a:hover {
+    color: #9E9E9E;
+  }
+  
+  #button {
+    cursor: pointer;
+    display: inline-block;
+    background-color: lightgrey;
+    padding: 0.5em 1em;
+    user-select: none;
+  }
+  
+  #body {
+    height: 130vh;
+  }
